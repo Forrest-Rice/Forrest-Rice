@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 ### Yoo, I'm BIAN YU 👋
 
 - ⚡ vue3/typescript
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Vue3
+<!-- - 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ... -->
+- 💬 Ask me about Github/Forrest-Rice
+- 📫 How to reach me: tel15242952083
+- 😄 Pronouns: BY
+<!-- - ⚡ Fun fact: ... -->
